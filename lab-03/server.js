@@ -86,8 +86,8 @@ app.get('/', (request, response) => {
   response.status(200).json({
     message: 'Lab 3: REST API, Query Parameters, Validation, and Debugging',
     student: {
-      name: 'SOMULA SUDHARSHAN REDDY',
-      registrationNumber: '252U1R1231',
+      name: 'Uppu Rishi Kumar',
+      registrationNumber: '252U1R1245',
       section: 'CSE-CORE-2E',
       faculty: 'Mr Yugandhar Gurjalwar',
       college: 'Aurora Deemed-to-be-University'

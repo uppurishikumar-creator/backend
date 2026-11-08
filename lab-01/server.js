@@ -6,8 +6,9 @@ app.get('/', (request, response) => {
 
 app.get('/about', (request, response) => {
   response.send({
-    name: "SUDHARSHAN REDDY",
-    setion: "CSE CORE 2E"
+    name: "Uppu Rishi Kumar",
+    registrationNumber: "252U1R1245",
+    section: "CSE CORE 2E"
   })
 });
 app.get('/time', (request, response) => {
